@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre_mascota">mascota</string>
+    <string name="rating_mascota">5</string>
+
+    <string name="menuOpciones_titulo_contacto">Contacto</string>
+    <string name="menuOpciones_titulo_acerca_de">Acerca De...</string>
+    <string name="textView_titulo_contacto">Contacto</string>
+    <string name="textView_titulo_acerca_de">Acerca De...</string>
+    <string name="menuContexto_titulo_editar">Editar</string>
+    <string name="menuContexto_titulo_eliminar">Eliminar</string>
+    <string name="textView_titulo_nombre_persona">Persona</string>
+    <string name="menuPopup_titulo_ver_imagen">Ver Imagen</string>
+    <string name="menuPopip_titulo_ver_detalles">Ver Detalle de la Imagen</string>
+
+    <string name="formulario_nombre">Nombre Completo</string>
+    <string name="formulario_email">Email</string>
+    <string name="formulario_mensaje">Mensaje</string>
+    <string name="formulario_enviar_comentario">Enviar Comentario</string>
+</resources>
